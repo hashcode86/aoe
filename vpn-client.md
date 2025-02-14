@@ -18,7 +18,6 @@
 
 ![connected](https://github.com/user-attachments/assets/7566ded5-dd43-4e19-808f-5bc1116f365a)
 
-
-
-Mở AOE trong thư mục egoplay, ví dụ:
-D:\softwares\EGOPlay\Game\AOEFULL
+# Mở AOE trong thư mục egoplay:
+* Ví du: D:\softwares\EGOPlay\Game\AOEFULL
+* Chạy cùng 1 version để tránh bị dis

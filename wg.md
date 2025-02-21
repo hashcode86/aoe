@@ -42,3 +42,7 @@ PersistentKeepalive = 25
 | 10.10.10.7 | uEocqMztc+HOkn2zmCS8PSdFT7NML8HYgToyWLzbSUk= |            |
 | 10.10.10.8 | sJiSK6qTdKJMqZGg7Fno3q6K3mOlgul+Yf154LeKq1o= |            |
 | 10.10.10.9 | iGACsQG/1U3x7yEDOgirGdC4XSGrukFKDEvc3wk50k8= | Khá        |
+
+# AOE trong thư mục của EGO, ví dụ:
+* D:\softwares\EGOPlay\Game\AOE1: bản thường
+* D:\softwares\EGOPlay\Game\AOEFULL: bản HD

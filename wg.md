@@ -36,11 +36,11 @@ PersistentKeepalive = 25
 | IP         | Key                                          | Đã dùng    |
 | ---------- | -------------------------------------------- | ---------- |
 | 10.10.10.3 | 8GG0tcfUd4Tp8BZ7A6SGm6PdEANopOqiWi51cjSOcUA= | XienXien   |
-| 10.10.10.4 | CP+b0jD6TPpx7q4VNuKgTx684M0dF8V21PmLjN0Ja2k= |            |
-| 10.10.10.5 | yGgyDphyyNfZ+NY0mxS5Sd6Vlqa03mpFoWsNPyfv0XI= |            |
-| 10.10.10.6 | eDNosNi6J+bUO5MbnilvlIpAHbO4Zo0waY7Lw4Uhf1Q= |            |
+| 10.10.10.4 | CP+b0jD6TPpx7q4VNuKgTx684M0dF8V21PmLjN0Ja2k= | JT         |
+| 10.10.10.5 | yGgyDphyyNfZ+NY0mxS5Sd6Vlqa03mpFoWsNPyfv0XI= | M3P        |
+| 10.10.10.6 | eDNosNi6J+bUO5MbnilvlIpAHbO4Zo0waY7Lw4Uhf1Q= | RO         |
 | 10.10.10.7 | uEocqMztc+HOkn2zmCS8PSdFT7NML8HYgToyWLzbSUk= |            |
-| 10.10.10.8 | sJiSK6qTdKJMqZGg7Fno3q6K3mOlgul+Yf154LeKq1o= |            |
+| 10.10.10.8 | sJiSK6qTdKJMqZGg7Fno3q6K3mOlgul+Yf154LeKq1o= | Thuyết     |
 | 10.10.10.9 | iGACsQG/1U3x7yEDOgirGdC4XSGrukFKDEvc3wk50k8= | Khá        |
 
 # AOE trong thư mục của EGO, ví dụ:

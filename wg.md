@@ -9,8 +9,8 @@
   ![2](https://github.com/user-attachments/assets/a60fe9cc-1fbd-4d34-b3ba-6b5bff7e2041)
 
   * Name: AOE
-  * Public key: Tự sinh
   * Body: theo mẫu dưới
+  * Public key: Tự sinh, không phải nhập
 
 * Bấm **Save**, sau đó chọn **Active/Deactive** để kết nối hoặc ngắt kết nối
 

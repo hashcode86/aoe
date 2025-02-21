@@ -29,7 +29,7 @@ PersistentKeepalive = 25
 [Peer]
 PublicKey = cYbNgvsGBhjls9rK62DDUgK2xGg830O65ltuaJyGnDg=
 AllowedIPs = 10.10.10.2/32
-Endpoint = 171.236.87.133:51820
+Endpoint = hashcode.tplinkdns.com:51820
 PersistentKeepalive = 25
 ```
 

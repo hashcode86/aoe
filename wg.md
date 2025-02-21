@@ -23,7 +23,7 @@ ListenPort = 51820
 [Peer]
 PublicKey = klg5oQTQ90iBYGbwYKcTC3ZddYWbTQSS2vaddDcytD0=
 AllowedIPs = 10.10.10.0/24
-Endpoint = 171.244.63.15:51820
+Endpoint = aoe-wg.io.vn:51820
 PersistentKeepalive = 25
 
 [Peer]

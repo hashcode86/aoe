@@ -12,7 +12,7 @@
   * Public key: Tự sinh
   * Body: theo mẫu dưới
 
-* Chọn Active/Deactive để kết nối, ngắt kết nối
+* Bấm **Save**, sau đó chọn **Active/Deactive** để kết nối hoặc ngắt kết nối
 
 ```Properties
 [Interface]

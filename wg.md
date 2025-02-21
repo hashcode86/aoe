@@ -12,6 +12,8 @@
   * Public key: Tự sinh
   * Body: theo mẫu dưới
 
+* Chọn Active/Deactive để kết nối, ngắt kết nối
+
 ```Properties
 [Interface]
 Address = IP_LẤY_TỪ_BẢN DƯỚI

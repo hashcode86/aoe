@@ -35,13 +35,17 @@ PersistentKeepalive = 25
 
 | IP         | Key                                          | Đã dùng    |
 | ---------- | -------------------------------------------- | ---------- |
-| 10.10.10.3 | 8GG0tcfUd4Tp8BZ7A6SGm6PdEANopOqiWi51cjSOcUA= | XienXien   |
-| 10.10.10.4 | CP+b0jD6TPpx7q4VNuKgTx684M0dF8V21PmLjN0Ja2k= | Thuyết     |
-| 10.10.10.5 | yGgyDphyyNfZ+NY0mxS5Sd6Vlqa03mpFoWsNPyfv0XI= | M3P        |
-| 10.10.10.6 | eDNosNi6J+bUO5MbnilvlIpAHbO4Zo0waY7Lw4Uhf1Q= | RO         |
-| 10.10.10.7 | uEocqMztc+HOkn2zmCS8PSdFT7NML8HYgToyWLzbSUk= | JT         |
-| 10.10.10.8 | sJiSK6qTdKJMqZGg7Fno3q6K3mOlgul+Yf154LeKq1o= | JAMES      |
-| 10.10.10.9 | iGACsQG/1U3x7yEDOgirGdC4XSGrukFKDEvc3wk50k8= | Khá        |
+| 10.10.10.3  | ******************************************** | XienXien   |
+| 10.10.10.4  | ******************************************** | Thuyết     |
+| 10.10.10.5  | ******************************************** | M3P        |
+| 10.10.10.6  | ******************************************** | RO         |
+| 10.10.10.7  | ******************************************** | JT         |
+| 10.10.10.8  | ******************************************** | JAMES      |
+| 10.10.10.9  | ******************************************** | Khá        |
+| 10.10.10.10 | IAQsLAYS19r1SxhfAbs8vYVgw9KPxLrrJi+BDdRCbnA= |            |
+| 10.10.10.11 | ePaPMOjbXAzyfXi+5f/6jxRNQOXdl860QBGKy1KlVkc= |            |
+| 10.10.10.12 | sD+oRio+C/KZSCbeyogUl/uDQYIR4GxwxqM6sZ2YEmU= |            |
+| 10.10.10.13 | UGs/zu0B1pGSvP3L3wFWXkDGhuAM8gaeadlJiQLEo0w= |            |
 
 # AOE trong thư mục của EGO, ví dụ:
 * D:\softwares\EGOPlay\Game\AOE1: bản thường

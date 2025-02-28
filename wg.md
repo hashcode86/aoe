@@ -16,7 +16,7 @@
 
 ```Properties
 [Interface]
-Address = IP_LẤY_TỪ_BẢN DƯỚI
+Address = IP_LẤY_TỪ_BẢN DƯỚI(CHỌN_IP_CHƯA_DÙNG)
 PrivateKey = KEY_ỨNG_VỚI_IP_ĐÃ_CHỌN
 ListenPort = 51820
 

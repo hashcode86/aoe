@@ -42,7 +42,7 @@ PersistentKeepalive = 25
 | 10.10.10.7  | ******************************************** | JT         |
 | 10.10.10.8  | ******************************************** | JAMES      |
 | 10.10.10.9  | ******************************************** | Khá        |
-| 10.10.10.11 | ePaPMOjbXAzyfXi+5f/6jxRNQOXdl860QBGKy1KlVkc= | NhungVC    |
+| 10.10.10.11 | ******************************************** | NhungVC    |
 | 10.10.10.12 | sD+oRio+C/KZSCbeyogUl/uDQYIR4GxwxqM6sZ2YEmU= |            |
 | 10.10.10.13 | UGs/zu0B1pGSvP3L3wFWXkDGhuAM8gaeadlJiQLEo0w= |            |
 

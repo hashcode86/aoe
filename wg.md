@@ -44,7 +44,7 @@ PersistentKeepalive = 25
 | 10.10.10.9  | ******************************************** | Khá        |
 | 10.10.10.11 | ******************************************** | NhungVC    |
 | 10.10.10.12 | sD+oRio+C/KZSCbeyogUl/uDQYIR4GxwxqM6sZ2YEmU= |            |
-| 10.10.10.13 | UGs/zu0B1pGSvP3L3wFWXkDGhuAM8gaeadlJiQLEo0w= |            |
+| 10.10.10.13 | ******************************************** | Trung      |
 | 10.10.10.14 | mOz67nh19gajMmX/sXAvCGbcCglVB2+L/A2yGemyhXY= |            |
 
 # AOE trong thư mục của EGO, ví dụ:
